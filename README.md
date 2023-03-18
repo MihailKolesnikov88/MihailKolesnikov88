@@ -17,6 +17,6 @@
 ---
 
 ### :man_technologist: About me:
-+ :construction_worker: I'm working as QA engineer;
++ :construction_worker: I'm QA engineer;
 + :muscle: Student of Vadim Ksendzov's QA-courses;
 
