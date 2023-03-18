@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+
+### :man_technologist: About me:
++ :construction_worker: I am a software QA engineer;
++ :muscle: Student of Vadim Ksendzov's QA-courses;
+
+ 
+    
+---
+
 <div id="header" align="center">
   
 </div>
@@ -12,11 +22,4 @@
   <a href="https://t.me/fffooorrrsss/">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>  
-</div>  
-    
----
-
-### :man_technologist: About me:
-+ :construction_worker: I am a software QA engineer;
-+ :muscle: Student of Vadim Ksendzov's QA-courses;
-
+</div> 
