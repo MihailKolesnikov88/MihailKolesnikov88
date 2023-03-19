@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 + :construction_worker: I am a software QA engineer;
-+ :muscle: Student of Vadim Ksendzov's QA-courses;
++ :bulb: Student of Vadim Ksendzov's QA-courses;
 
  
     
